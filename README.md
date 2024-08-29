@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an intern in Frover<br>🌱 I’m currently learning Flask<br>👯 I’m looking to collaborate on Front end and backend Work<br>📫 How to reach me harshsawant2505@gmail.com<br>⚡ Fun fact
+🔭 I’m currently working as an intern in Frover<br>🌱 I’m currently learning Django<br>👯 I’m looking to collaborate on Front end and backend Work<br>📫 How to reach me harshsawant2505@gmail.com<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
